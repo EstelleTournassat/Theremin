@@ -1,5 +1,5 @@
 # Projet: Fabrication d'un thérémine
-projet option électronique et signal pour la musique: fabriquer un thérémine.  
+Projet option électronique et signal pour la musique: fabriquer un thérémine.  
 
 ## Partie 1: Partie tonalité
 lien d'inspiration:  
