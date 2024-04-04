@@ -6,8 +6,10 @@ lien d'inspiration:
 https://www.astuces-pratiques.fr/electronique/theremine-schema-simple-et-fabrication#google_vignette  
 ![](https://www.astuces-pratiques.fr/image/electronique/theremine-schema-simple-et-fabrication/theremine-schema-simple.webp)  
 
+#### Simulation:  
+[lien fichier ORCAD]()
 #### PCB:  
-[lien fichiers Kicad]()
+[lien fichiers Kicad](https://github.com/EstelleTournassat/Theremin/blob/main/Theremine.opj)
 
 ## Partie 2: Partie volume
 ![](https://github.com/EstelleTournassat/Theremin/blob/main/Diagramme%20vierge%20(4).png)
