@@ -7,4 +7,4 @@ https://www.astuces-pratiques.fr/electronique/theremine-schema-simple-et-fabrica
 ![](https://www.astuces-pratiques.fr/image/electronique/theremine-schema-simple-et-fabrication/theremine-schema-simple.webp)
 
 ## Partie 2: Partie volume
-!/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![](https://github.com/EstelleTournassat/Theremin/blob/main/Diagramme%20vierge%20(4).png)
