@@ -11,3 +11,6 @@ https://www.astuces-pratiques.fr/electronique/theremine-schema-simple-et-fabrica
 
 ## Partie 2: Partie volume
 ![](https://github.com/EstelleTournassat/Theremin/blob/main/Diagramme%20vierge%20(4).png)
+
+## Présentation
+[présentation finale](https://github.com/EstelleTournassat/Theremin/blob/main/Electronique%20et%20signal%20pour%20la%20musique.pdf)
